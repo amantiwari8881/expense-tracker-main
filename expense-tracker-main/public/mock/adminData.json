@@ -1,0 +1,24 @@
+{
+  "totalViews": 128,
+  "totalUsers": 3,
+  "users": [
+    {
+      "_id": "1",
+      "name": "Rajveer Pratap Singh",
+      "email": "rajveer@gmail.com",
+      "expenses": [
+        { "title": "Food", "amount": 250 },
+        { "title": "Travel", "amount": 400 }
+      ]
+    },
+    {
+      "_id": "2",
+      "name": "Aman Kumar",
+      "email": "aman@gmail.com",
+      "expenses": [
+        { "title": "Snacks", "amount": 120 },
+        { "title": "Shopping", "amount": 500 }
+      ]
+    }
+  ]
+}
